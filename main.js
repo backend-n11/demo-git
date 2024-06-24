@@ -1,1 +1,1 @@
-console.log("Salom  GIT!");
+console.log("Salom  dunyo 2!");
